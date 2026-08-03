@@ -1,0 +1,129 @@
+contract_id,vendor_name,agency_name,naics_code,contract_value,award_date,period_end_date,set_aside_type,vendor_email,vendor_phone,state_code,obligation_amount
+CON-202304-0019,Engility Corporation,General Services Administration,541690,-40537,2022-12-02,2026-03-06,SDVOSB,engility.contracts@mail.gov,(807) 552-3503,MD,755033
+CON-202203-0068,Peraton,Department of Commerce,541513,365180,2023-01-07,11/05/2023,8(a),peraton.contracts@fedmail.gov,(918) 305-4811,CA,-18340
+CON-202402-0056,L3Harris Technologies,Department of Commerce,541690,35093068,2022-05-11,04/27/2026,Total Small Business,l3harris.contracts@agency.gov,(555) 573-8690,MD,988665
+CON-202306-0057,Telos Corporation,Department of Justice,541611,513071,2025-01-16,2025-03-24,Small Business,telos.contracts@fedmail.gov,(312) 455-1882,MN,164714
+CON-202311-0102,Parsons Corporation,General Services Administration,541513,964187,09/02/2024,2026-04-18,HUBZone,parsons.contracts@agency.gov,(363) 626-1672,CA,1418445
+,Booz Allen Hamilton,Department of Veterans Affairs,541511,-34088,2025-02-12,11/18/2026,VOSB,booz.contracts@mail.gov,(367) 821-6199,PA,374118
+CON-202303-0091,Accenture Federal,,541519,1361627,2024-08-19,11/26/2024,Small Business,accenture.contracts@contractor.com,(832) 341-7035,IL,22366077
+CON-202406-0036,PAE Government Services,Department of Homeland Security,541620,1682119,2024-09-23,2025-10-12,Unrestricted,pae..contracts@fedmail.gov,(893) 225-2955,GA,-1795
+CON-202201-0087,Noblis,,541330,502453,2024-04-10,06/16/2023,SDVOSB,noblis.contracts@mail.gov,(875) 782-5450,IL,-3602
+CON-202207-0012,ICF International,Department of Homeland Security,541330,39169941,05/24/2023,04/11/2024,8(a),icf.contracts@agency.gov,(432) 903-7897,OR,215828
+CON-202212-0006,ManTech International,Department of Labor,611420,37396914,2024-05-03,11/11/2024,Small Business,mantech.contracts@mail.gov,6619544283,ZZ,32588
+,Intelligent Systems,General Services Administration,541519,-14475,08/23/2022,04/29/2023,HUBZone,intelligent.contracts@contractor.com,(394) 291-2827,FL,25703
+CON-202401-0104,General Dynamics IT,Department of Homeland Security,541511,41324947,02/12/2022,09/10/2025,8(a),general.contracts@fedmail.gov,(847) 377-5957,WA,462032
+CON-202208-0115,CACI International,Department of Transportation,541690,-48333,11/10/2024,2023-11-11,Total Small Business,caci.contracts@agency.gov,(992) 581-3109,NJ,1429339
+CON-202405-0020,Engility Corporation,Social Security Administration,541330,1572211,2025-01-19,06/04/2025,VOSB,@fedmail.gov,,DC,235805
+CON-202405-0020,Engility Corporation,Social Security Administration,541330,1572211,2025-01-19,06/04/2025,VOSB,@fedmail.gov,,DC,235805
+CON-202309-0086,Engility Corporation,NASA,58179,1425539,2022-06-24,2026-03-30,WOSB,engility.contracts@mail.gov,(519) 601-9335,CA,474815
+CON-202209-0016,PAE Government Services,Department of Commerce,541620,-9464,2022-02-10,08/21/2025,8(a),pae..contracts@govmail.net,(338) 992-5699,CO,611743
+CON-202208-0088,SAIC,Department of Homeland Security,611710,814634,2022-05-07,2023-10-29,VOSB,saic.contracts@agency.gov,(405) 822-3290,MD,1460368
+CON-202208-0099,,Department of Commerce,541620,1325862,2024-09-28,2025-03-13,Total Small Business,l3harris.contracts@govmail.net,(417) 601-2355,TX,18368044
+CON-202304-0120,Telos Corporation,Social Security Administration,541380,22086363,2022-07-08,05/02/2024,8(a),telos.contracts@govmail.net,(613) 223-3742,SC,
+CON-202307-0117,Parsons Corporation,Social Security Administration,,2004327,2023-02-25,2024-05-19,Total Small Business,parsons.contracts@contractor.com,(498) 416-5631,OR,936527
+CON-202304-0019,Engility Corporation,General Services Administration,541690,-40537,2022-12-02,2026-03-06,SDVOSB,engility.contracts@mail.gov,(807) 552-3503,MD,755033
+CON-202206-0075,PAE Government Services,NASA,541511,34910726,2024-10-21,2025-03-05,SDVOSB,pae.contracts@contractor.com,(688) 731-3966,NJ,62149
+CON-202208-0118,PAE Government Services,Department of Veterans Affairs,,275996,2024-07-10,11/28/2023,8(a),pae.contracts@mail.gov,(609) 559-4687,NY,1287364
+CON-202312-0060,SAIC,Department of Justice,611710,1621190,2024-09-01,01/30/2025,SDVOSB,saic.contracts@govmail.net,,IL,1240049
+CON-202304-0076,Engility Corporation,NASA,517110,45365773,06/03/2023,2025-09-22,Unrestricted,,(500) 846-6069,MA,-2446
+CON-202406-0048,L3Harris Technologies,Health and Human Services,541690,2282022,06/13/2024,03/25/2026,8(a),l3harris.contracts@contractor.com,(358) 704-5826,WA,728889
+CON-202411-0105,DXC Technology,Department of Homeland Security,541618,2231319,10/16/2023,2026-02-12,WOSB,dxc.contracts@agency.gov,,OH,813548
+CON-202504-0119,ManTech International,Department of State,541611,22146027,2024-12-20,2026-07-15,VOSB,mantech.contracts@govmail.net,(307) 582-4929,TX,1175452
+CON-202206-0108,SAIC,Health and Human Services,541611,,02/12/2023,02/16/2024,Unrestricted,saic.contracts@agency.gov,(334) 487-9914,OR,1332258
+CON-202201-0050,Accenture Federal,Social Security Administration,541512,-12916,2024-03-14,2023-10-14,Total Small Business,accenture.contracts@govmail.net,(966) 557-6342,ZZ,152381
+CON-202306-0097,General Dynamics IT,Social Security Administration,541618,1397670,2022-01-13,2024-12-06,VOSB,general.contracts@mail.gov,(393) 254-2322,CA,385617
+CON-202502-0103,DXC Technology,Department of Homeland Security,541611,580127,2024-01-11,09/02/2027,HUBZone,dxc.contracts@fedmail.gov,,NY,-6980
+CON-202209-0112,General Dynamics IT,Department of Justice,541618,314304,2025-02-17,2023-12-14,Unrestricted,,(791) 422-8385,PA,363576
+CON-202208-0064,Unison,Department of Commerce,541330,49316670,2022-12-18,2023-09-28,Total Small Business,unison.contracts@govmail.net,,ZZ,11414048
+CON-202307-0032,Leidos,Department of Energy,541330,181321,2022-04-07,2026-03-28,Total Small Business,leidos..contracts@mail.gov,(518) 875-6034,FL,207616
+CON-202306-0005,Accenture Federal,Department of Transportation,541620,386077,2024-02-16,2025-02-20,WOSB,accenture.contracts@fedmail.gov,(563) 911-5839,FL,38440770
+CON-202501-0049,General Dynamics IT,Department of Defense,541519,1346832,2022-05-04,2027-04-13,Small Business,general.contracts@mail.gov,(379) 232-7533,PA,-11142
+CON-202412-0025,Peraton,Department of Education,541519,-48784,2023-05-22,2026-05-12,VOSB,peraton.contracts@agency.gov,(388) 260-1925,MA,24781825
+CON-202411-0009,Parsons Corporation,Department of Homeland Security,541519,-28178,2022-11-26,2027-03-08,VOSB,parsons.contracts@agency.gov,(956) 313-3401,MN,1446605
+CON-202208-0054,SAIC,,541330,2277023,2023-04-21,2023-05-14,VOSB,saic.contracts@mail.gov,(748) 270-3174,SC,948247
+CON-202212-0107,L3Harris Technologies,Department of Justice,541330,245782,2023-03-24,2024-10-31,SDVOSB,l3harris.contracts@fedmail.gov,(729) 802-7246,AZ,1013046
+CON-202310-0029,PAE Government Services,NASA,541513,503354,2023-04-18,2026-05-16,Total Small Business,pae.contracts@mail.gov,4924240785,AZ,391821
+CON-202409-0059,General Dynamics IT,Department of Commerce,611710,1990887,2022-09-04,2027-08-08,WOSB,general.contracts@fedmail.gov,(930) 961-4087,MN,346559
+CON-202305-0073,SAIC,Department of Labor,541620,1423914,2023-07-04,2025-02-10,VOSB,saic.contracts@contractor.com,(214) 910-9795,MN,294139
+CON-202404-0098,,Department of Education,611420,1817641,01/19/2023,2026-12-03,Unrestricted,unison.contracts@contractor.com,(753) 430-8731,MA,-11238
+CON-202307-0062,PAE Government Services,Department of State,541611,37540718,2023-05-03,2024-03-17,VOSB,pae..contracts@contractor.com,,NJ,25593439
+CON-202203-0085,General Dynamics IT,Department of Energy,541380,1864210,2024-05-30,10/18/2022,SDVOSB,general.contracts@govmail.net,(249) 657-8963,ZZ,15737454
+CON-202409-0039,CACI International,Department of Veterans Affairs,518210,1090895,2022-10-02,04/08/2025,WOSB,caci.contracts@fedmail.gov,(452) 683-5845,SC,1385426
+,ManTech International,General Services Administration,611710,1705304,2024-03-17,02/04/2027,Unknown,mantech.contracts@contractor.com,7189564675,CA,-17973
+CON-202209-0046,DXC Technology,Health and Human Services,541330,901928,2022-02-26,2024-04-20,Unknown,dxc.contracts@mail.gov,(734) 437-6035,IL,-15029
+CON-202201-0110,Unison,Department of Commerce,541512,1909874,2025-02-23,02/06/2023,VOSB,unison.contracts@mail.gov,(664) 852-7185,IL,-10268
+CON-202407-0106,Intelligent Systems,NASA,518210,1231693,10/27/2022,03/31/2027,VOSB,intelligent.contracts@mail.gov,(817) 699-9724,DC,807804
+CON-202407-0092,Peraton,Department of Energy,611710,45164935,2024-06-23,2026-02-23,Small Business,peraton.contracts@mail.gov,(467) 961-9687,SC,9395463
+CON-202412-0034,Peraton,General Services Administration,518210,,02/28/2024,10/21/2025,Small Business,peraton.contracts@mail.gov,(971) 721-5129,TX,252990
+CON-202209-0002,L3Harris Technologies,Department of Defense,3980060,,02/17/2022,10/28/2023,VOSB,l3harris.contracts@mail.gov,,TX,-7490
+CON-202407-0074,General Dynamics IT,General Services Administration,541611,-11071,2024-03-31,2025-11-20,Unrestricted,general.contracts@mail.gov,(753) 940-7326,ZZ,1079339
+CON-202409-0035,Noblis,Department of Justice,541330,1992662,12/21/2022,02/26/2027,Total Small Business,noblis.contracts@fedmail.gov,(573) 214-7207,SC,-8275
+CON-202306-0061,Accenture Federal,Health and Human Services,541611,28274332,01/02/2024,2024-12-12,VOSB,accenture.contracts@contractor.com,(734) 906-3557,CA,-14617
+CON-202402-0038,CACI International,Department of Commerce,541519,1860860,2024-12-29,07/15/2026,VOSB,caci.contracts@contractor.com,(423) 295-8236,CO,965771
+CON-202212-0101,,Department of Veterans Affairs,611710,983170,2023-02-25,2024-01-08,WOSB,parsons.contracts@govmail.net,555-9216,OH,-15965
+CON-202205-0043,Maximus Federal,Department of Homeland Security,541620,-47098,2024-02-25,2025-04-29,Unrestricted,maximus,(803) 248-6558,GA,-4968
+CON-202312-0090,ICF International,Health and Human Services,541620,440575,2025-03-04,2024-10-01,SDVOSB,icf.contracts@contractor.com,555-6183,NC,708753
+CON-202312-0022,Noblis,Department of Veterans Affairs,517110,-20838,2022-02-01,2026-08-29,Total Small Business,noblis.contracts@govmail.net,(203) 421-1731,TX,976550
+CON-202411-0082,Booz Allen Hamilton,Department of Transportation,541620,2432246,2024-09-16,09/28/2026,WOSB,booz.contracts@contractor.com,(374) 794-7166,OH,719128
+CON-202404-0008,ICF International,,541511,1433056,11/13/2024,07/18/2025,Total Small Business,icf.contracts@mail.gov,(627) 435-4088,NY,1219575
+CON-202302-0045,SAIC,Department of Homeland Security,541618,-40419,05/17/2025,11/19/2024,HUBZone,saic.contracts@fedmail.gov,(947) 772-7850,IL,-15469
+CON-202312-0089,Deloitte Consulting,Department of Labor,541511,2135718,2022-10-07,07/16/2025,HUBZone,deloitte.contracts@contractor.com,(732) 479-7201,SC,860532
+,L3Harris Technologies,Department of Defense,611420,1383686,2024-01-28,09/11/2024,VOSB,l3harris.contracts@contractor.com,,NC,70165
+CON-202204-0067,General Dynamics IT,Department of Homeland Security,8864273,1227990,2022-01-20,2024-05-11,8(a),general.contracts@contractor.com,(566) 554-8807,TX,16549422
+CON-202210-0065,General Dynamics IT,Department of Transportation,611710,16929982,2023-11-01,09/22/2023,Unrestricted,general.contracts@govmail.net,,TX,878044
+CON-202205-0017,ManTech International,Department of Labor,541330,-22627,2024-10-24,08/03/2023,SDVOSB,mantech..contracts@govmail.net,(537) 722-3109,GA,662301
+CON-202203-0084,ICF International,Department of Homeland Security,517110,263157,2024-01-07,2024-04-07,VOSB,icf.contracts@fedmail.gov,(424) 744-7615,MA,665831
+CON-202205-0071,CACI International,Department of Labor,541618,1951173,2023-03-12,2023-08-07,Small Business,caci.contracts@agency.gov,(772) 888-8203,VA,-6717
+CON-202308-0113,Engility Corporation,Department of Transportation,541618,31903851,2023-04-09,2024-06-07,SDVOSB,engility.contracts@contractor.com,(943) 846-3925,AZ,155226
+CON-202402-0040,ManTech International,Department of Defense,541620,2200694,2024-03-22,2025-07-11,8(a),mantech.contracts@govmail.net,(421) 367-8785,MA,9213124
+CON-202203-0083,L3Harris Technologies,General Services Administration,518210,-28211,2022-01-23,06/07/2023,Total Small Business,l3harris.contracts@contractor.com,,TX,120099
+CON-202211-0079,Intelligent Systems,Department of Veterans Affairs,518210,26122159,2022-08-10,01/17/2025,8(a),intelligent.contracts@agency.gov,(365) 618-7561,MA,10478065
+CON-202205-0017,ManTech International,Department of Labor,541330,-22627,2024-10-24,08/03/2023,SDVOSB,mantech..contracts@govmail.net,(537) 722-3109,GA,662301
+CON-202504-0072,SAIC,Department of Education,541511,1943084,2023-01-08,02/28/2026,VOSB,saic.contracts@contractor.com,(363) 591-2132,MA,-6733
+CON-202301-0033,Leidos,General Services Administration,541620,1037347,2023-06-27,2024-01-31,Small Business,leidos.contracts@contractor.com,(822) 664-5438,IL,898093
+CON-202405-0001,L3Harris Technologies,Department of Transportation,541618,889177,03/12/2023,11/18/2026,Unrestricted,l3harris.contracts@mail.gov,,DC,551701
+CON-202403-0077,Unison,Department of Justice,611420,43303758,2024-07-16,2026-05-05,8(a),unison.contracts@mail.gov,(454) 427-1946,CO,13761330
+CON-202303-0109,DXC Technology,Social Security Administration,611710,31490144,2022-08-07,2025-06-23,8(a),dxc.contracts@fedmail.gov,3110967517,NY,1168254
+CON-202402-0004,Engility Corporation,Department of Labor,517110,1031073,07/09/2022,2025-09-22,VOSB,engility.contracts@govmail.net,(870) 431-6089,PA,-1365
+CON-202304-0019,Engility Corporation,General Services Administration,541690,-40537,2022-12-02,2026-03-06,SDVOSB,engility.contracts@mail.gov,(807) 552-3503,MD,755033
+CON-202410-0023,Maximus Federal,Department of Energy,541513,576748,2022-03-07,06/06/2027,WOSB,maximus.contracts@govmail.net,,MN,657474
+CON-202504-0028,CACI International,General Services Administration,517110,1984748,2023-08-02,11/14/2025,Total Small Business,caci.contracts@fedmail.gov,(860) 691-9098,ZZ,
+CON-202212-0051,Telos Corporation,Department of Education,541690,-12530,02/13/2023,08/11/2025,Small Business,telos.contracts@agency.gov,(624) 510-6315,ZZ,1329280
+CON-202302-0116,Parsons Corporation,NASA,541690,1694918,2023-12-14,04/16/2024,VOSB,parsons.contracts@mail.gov,(954) 412-1499,NJ,761004
+CON-202302-0041,ICF International,Department of Education,541380,295224,2022-04-18,2024-09-04,HUBZone,icf.contracts@fedmail.gov,(905) 335-8073,PA,498721
+CON-202406-0036,PAE Government Services,Department of Homeland Security,541620,1682119,2024-09-23,2025-10-12,Unrestricted,pae..contracts@fedmail.gov,(893) 225-2955,GA,-1795
+CON-202210-0026,Deloitte Consulting,Department of State,541330,-47756,08/08/2024,08/23/2024,Total Small Business,deloitte.contracts@contractor.com,(748) 657-8601,MA,
+CON-202301-0053,Leidos,General Services Administration,541690,23844887,05/03/2023,2024-11-26,SDVOSB,leidos,(881) 468-1354,GA,9847612
+CON-202206-0037,Telos Corporation,Department of Veterans Affairs,541519,2424891,2023-09-03,2024-01-12,Unrestricted,telos.contracts@govmail.net,(716) 279-2131,MN,827775
+CON-202202-0100,Intelligent Systems,Department of Labor,611420,563783,2023-11-24,09/11/2024,Total Small Business,intelligent..contracts@govmail.net,(782) 218-8066,AZ,1428314
+CON-202304-0031,Accenture Federal,Department of Defense,541690,1091790,2023-02-07,2024-05-25,SDVOSB,accenture.contracts@contractor.com,(423) 548-8652,FL,27109
+CON-202212-0096,SAIC,Department of State,541511,2475024,2022-11-04,05/20/2024,Unrestricted,saic.contracts@fedmail.gov,(330) 767-7216,VA,
+CON-202503-0070,SAIC,Department of Transportation,541690,-42109,2023-04-18,2025-09-28,Unrestricted,saic,,CO,1197010
+CON-202503-0058,Deloitte Consulting,Social Security Administration,518210,271072,2022-10-29,10/07/2027,Small Business,,(318) 550-7344,ZZ,-6644
+CON-202303-0011,Leidos,Department of Transportation,541690,,02/28/2022,2024-05-11,HUBZone,leidos.contracts@fedmail.gov,(460) 387-8055,MD,862904
+CON-202204-0080,PAE Government Services,Department of Transportation,541513,-44187,2023-05-07,05/13/2023,SDVOSB,pae.contracts@agency.gov,(360) 307-2770,VA,1115952
+CON-202309-0114,Intelligent Systems,Department of State,541512,-24556,2024-06-30,05/18/2026,WOSB,intelligent.contracts@mail.gov,,WA,-19352
+CON-202201-0093,ICF International,Department of Defense,541380,165547,2023-03-25,11/09/2023,HUBZone,icf.contracts@fedmail.gov,(353) 957-1237,MN,513913
+CON-202212-0111,General Dynamics IT,Health and Human Services,541611,-26791,2025-01-06,09/04/2023,8(a),general.contracts@fedmail.gov,(381) 218-2805,CO,-5527
+CON-202503-0081,L3Harris Technologies,NASA,541511,-45295,2022-11-17,06/30/2026,Unknown,l3harris.contracts@mail.gov,(309) 487-5861,PA,
+CON-202308-0063,ManTech International,NASA,541512,1773436,01/10/2023,2024-08-22,8(a),mantech.contracts@agency.gov,(289) 706-2260,MN,304942
+CON-202202-0024,SAIC,Department of Transportation,541690,-5007,2022-11-27,01/15/2023,Small Business,saic.contracts@agency.gov,(675) 484-8886,NY,88587
+CON-202212-0055,Engility Corporation,NASA,541611,-15083,2023-08-15,2024-08-07,WOSB,engility.contracts@govmail.net,9791368956,PA,
+CON-202503-0095,DXC Technology,Department of Education,541330,300966,2022-11-04,2026-02-19,VOSB,dxc.contracts@agency.gov,(223) 425-9716,OH,1001901
+CON-202209-0021,General Dynamics IT,Department of Defense,541511,-20525,2024-12-31,2024-01-10,HUBZone,general.contracts@fedmail.gov,(960) 593-2515,NC,
+CON-202403-0007,DXC Technology,Department of Justice,541519,23019380,2025-03-18,2025-11-05,Total Small Business,dxc.contracts@contractor.com,555-8804,DC,386240
+,Deloitte Consulting,General Services Administration,541690,189379,2022-02-06,06/13/2026,Total Small Business,deloitte.contracts@govmail.net,5240978611,GA,-11053
+CON-202201-0044,SAIC,Department of Energy,541618,345942,2023-04-04,2023-06-03,SDVOSB,saic.contracts@agency.gov,555-2753,MD,
+CON-202201-0027,ICF International,Department of Veterans Affairs,541519,10778367,2023-06-04,10/23/2022,Small Business,icf.contracts@mail.gov,2167409431,SC,-4988
+CON-202308-0042,L3Harris Technologies,Department of Education,17066,1011780,2024-06-14,08/08/2026,Total Small Business,l3harris.contracts@agency.gov,(339) 569-2676,MN,-2258
+CON-202301-0030,Accenture Federal,Department of Commerce,541511,-21461,2022-11-14,12/21/2023,Total Small Business,accenture.contracts@agency.gov,(494) 866-6798,GA,1390379
+CON-202411-0047,Engility Corporation,NASA,517110,552898,2022-02-22,12/10/2025,8(a),engility.contracts@agency.gov,(851) 500-7643,FL,1187445
+CON-202207-0012,ICF International,Department of Homeland Security,541330,39169941,05/24/2023,04/11/2024,8(a),icf.contracts@agency.gov,(432) 903-7897,OR,215828
+CON-202305-0066,Deloitte Consulting,NASA,518210,416746,02/22/2025,2025-08-02,Small Business,deloitte.contracts@mail.gov,(406) 621-8314,DC,-18168
+CON-202409-0003,Booz Allen Hamilton,Department of Transportation,611420,1432852,2024-04-16,2025-04-27,SDVOSB,booz.contracts@agency.gov,,FL,16642835
+CON-202404-0078,Noblis,Department of Transportation,541519,-13303,2025-01-05,02/17/2025,Small Business,noblis.contracts@mail.gov,,NJ,-1017
+CON-202306-0013,Deloitte Consulting,Department of Justice,541512,2418060,03/08/2024,12/14/2023,WOSB,deloitte.contracts@govmail.net,(227) 563-4794,DC,105195
+CON-202503-0069,Unison,Department of Transportation,518210,-12733,04/14/2022,05/28/2027,Small Business,unison.contracts@fedmail.gov,(459) 251-4590,WA,1440555
+CON-202211-0079,Intelligent Systems,Department of Veterans Affairs,518210,26122159,2022-08-10,01/17/2025,8(a),intelligent.contracts@agency.gov,(365) 618-7561,MA,10478065
+CON-202308-0042,L3Harris Technologies,Department of Education,17066,1011780,2024-06-14,08/08/2026,Total Small Business,l3harris.contracts@agency.gov,(339) 569-2676,MN,-2258
+CON-202304-0094,Engility Corporation,Department of Transportation,541519,-9953,2022-01-03,04/03/2025,HUBZone,engility.contracts@govmail.net,(434) 527-4990,FL,352360

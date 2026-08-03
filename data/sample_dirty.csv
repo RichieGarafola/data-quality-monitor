@@ -1,0 +1,129 @@
+employee_id,first_name,last_name,email,phone,department,role,salary,start_date,state,active
+EMP-0110,Karen,Taylor,karen.taylor@agency.gov,(688) 731-3966,R&D,Coordinator,-3928,2021-07-31,NY,Yes
+EMP-0033,Sam,Thomas,sam.thomas@outlook.com,(581) 749-4291,R&D,Director,72849,2020-11-06,FL,1
+EMP-0049,Quinn,Brown,quinn.brown@agency.gov,(875) 498-1268,Finance,Engineer,-1701,2024-09-16,CA,YES
+EMP-0025,Olivia,Wilson,olivia.wilson@agency.gov,(563) 816-9454,Legal,Specialist,138167,2024-06-04,FL,No
+EMP-0106,Ned,Taylor,ned.taylor@govmail.gov,(243) 875-8639,Finance,Manager,723566,01/09/2024,FL,0
+EMP-0072,Tara,Taylor,tara.taylor@yahoo.com,(695) 200-5265,,Analyst,,2019-12-18,MD,TRUE
+EMP-0091,Sam,Garcia,sam.garcia@gmail.com,,R&D,Manager,64158,2024-06-25,GA,yes
+EMP-0003,Tara,Garcia,tara.garcia@govmail.gov,(346) 517-1092,Finance,Coordinator,120954,08/15/2018,IL,1
+EMP-0094,,Moore,leo.moore@outlook.com,(611) 973-2723,R&D,Engineer,-1954,2022-05-04,GA,1
+EMP-0018,Hank,Davis,@outlook.com,(842) 230-1626,Operations,Manager,-3147,04/14/2021,TX,Yes
+EMP-0024,Frank,Jackson,frank.jackson@outlook.com,6445833669,IT,Director,-2101,2019-06-11,CA,YES
+EMP-0077,Alice,Moore,alice.moore@yahoo.com,(394) 667-4543,R&D,Engineer,-1140,01/22/2019,CA,1
+EMP-0022,Jack,Harris,jack.harris@outlook.com,(413) 269-5583,HR,Director,-1963,2018-12-15,MD,yes
+EMP-0070,,Moore,karen.moore@agency.gov,555-6811,BD,Specialist,340680,2018-09-27,GA,1
+EMP-0001,Mia,Thomas,mia.thomas@agency.gov,(838) 701-4268,Legal,Coordinator,133569,2022-03-12,CA,yes
+EMP-0016,Grace,Davis,grace..davis@yahoo.com,(460) 387-8055,R&D,Analyst,844732,2023-01-02,CA,TRUE
+,Tara,White,tara.white@outlook.com,555-4200,BD,Analyst,67861,2024-02-22,VA,No
+EMP-0096,Iris,Jackson,iris.jackson@agency.gov,(500) 765-4960,HR,Analyst,66460,2020-03-21,VA,Yes
+EMP-0098,Bob,Moore,bob.moore@yahoo.com,8629722253,IT,Manager,343929,2023-12-18,NY,TRUE
+EMP-0111,Paul,Miller,paul..miller@govmail.gov,(788) 325-5148,BD,Advisor,-3834,2019-10-09,NY,1
+,Tara,White,tara.white@outlook.com,555-4200,BD,Analyst,67861,2024-02-22,VA,No
+EMP-0013,Frank,Anderson,frank.anderson@govmail.gov,(383) 956-2820,R&D,Coordinator,134726,02/21/2018,MD,no
+EMP-0042,Iris,Taylor,iris.taylor@gmail.com,(693) 273-2336,IT,Director,106132,08/07/2021,VA,yes
+EMP-0116,Frank,Wilson,frank.wilson@gmail.com,(730) 812-9523,Operations,Coordinator,897686,2018-03-18,GA,Yes
+EMP-0112,Mia,Moore,mia.moore@govmail.gov,(608) 585-6457,BD,Analyst,-2969,2022-04-26,VA,1
+EMP-0050,Leo,Jones,leo.jones@yahoo.com,(484) 427-9308,R&D,Advisor,615949,06/02/2024,TX,0
+EMP-0039,,Miller,eve.miller@yahoo.com,,Finance,Coordinator,72542,2020-01-24,NY,TRUE
+EMP-0063,Carol,Davis,carol.davis@yahoo.com,(818) 544-6056,HR,Advisor,-1888,2024-08-09,TX,no
+EMP-0045,Iris,Jackson,iris.jackson@yahoo.com,(920) 934-1624,Finance,Director,80767,2022-11-27,DC,Yes
+EMP-0114,Paul,Davis,paul.davis@agency.gov,4455718458,HR,Coordinator,,2018-02-20,OH,no
+EMP-0044,Leo,Wilson,leo.wilson@agency.gov,(852) 805-4159,HR,Director,86343,11/28/2024,FL,0
+EMP-0099,Leo,Harris,leo.harris@govmail.gov,(918) 923-9720,Operations,Coordinator,70277,2020-04-05,VA,1
+EMP-0101,Leo,Miller,leo.miller@agency.gov,(340) 930-8131,BD,Engineer,101184,07/26/2018,MD,Yes
+EMP-0064,Jack,Moore,jack.moore@yahoo.com,(929) 640-3818,Legal,Analyst,131185,2018-01-14,ZZ,1
+EMP-0103,Frank,Wilson,frank.wilson@govmail.gov,,HR,Manager,67309,2020-04-04,GA,Yes
+,David,Harris,david.harris@govmail.gov,(550) 733-8127,BD,Specialist,61907,03/01/2022,MD,TRUE
+EMP-0061,Sam,Garcia,sam.garcia@outlook.com,(279) 450-1883,Legal,Analyst,69177,2022-11-26,MD,0
+EMP-0055,Ned,White,ned.white@agency.gov,(894) 637-9707,Finance,Analyst,118165,2025-01-11,CA,no
+EMP-0107,Rose,Miller,,,Legal,Analyst,-2099,2021-09-28,IL,YES
+EMP-0059,David,Harris,david.harris@govmail.gov,(431) 460-3234,IT,Director,-4684,04/06/2023,OH,YES
+EMP-0028,Rose,Garcia,rose.garcia@gmail.com,(889) 771-5798,Finance,Coordinator,-1067,2019-02-16,ZZ,TRUE
+EMP-0071,Karen,White,karen..white@govmail.gov,(654) 750-7338,Legal,Director,,2018-10-03,FL,YES
+EMP-0011,Karen,Smith,karen.smith@agency.gov,,IT,Director,129660,2024-03-24,GA,Yes
+EMP-0075,Jack,Moore,jack.moore@yahoo.com,,R&D,Coordinator,355950,06/12/2019,NY,Yes
+EMP-0070,,Moore,karen.moore@agency.gov,555-6811,BD,Specialist,340680,2018-09-27,GA,1
+EMP-0034,Iris,Moore,iris.moore@gmail.com,(427) 506-5191,Operations,Specialist,117839,2020-12-22,VA,yes
+EMP-0051,Frank,Miller,frank..miller@yahoo.com,(342) 598-9406,Legal,Manager,58831,03/08/2020,IL,No
+EMP-0026,Alice,Jackson,alice.jackson@outlook.com,(350) 948-5224,Finance,Advisor,66589,03/11/2025,MD,TRUE
+EMP-0089,Iris,Miller,iris.miller@yahoo.com,(625) 767-4817,Legal,Advisor,702027,2022-07-17,TX,TRUE
+EMP-0035,Rose,White,rose.white@agency.gov,(884) 801-3512,HR,Manager,91389,2022-06-14,IL,TRUE
+EMP-0084,Eve,Johnson,eve.johnson@outlook.com,(760) 295-1863,Operations,Director,100411,11/22/2019,DC,No
+EMP-0052,Paul,Brown,paul.brown@gmail.com,(665) 792-7040,Operations,Analyst,780241,2018-04-12,CA,YES
+EMP-0031,Carol,Anderson,carol.anderson@gmail.com,(271) 563-3112,Operations,Advisor,58851,2018-06-14,ZZ,no
+EMP-0108,Ned,Williams,ned.williams@govmail.gov,(933) 944-5823,BD,Specialist,,11/27/2023,OH,TRUE
+EMP-0017,Ned,Jones,ned.jones@gmail.com,(406) 377-3205,Finance,Manager,135245,11/16/2020,IL,No
+EMP-0062,Hank,Jones,hank.jones@agency.gov,4972072807,R&D,Coordinator,-4979,2023-06-10,DC,Yes
+EMP-0027,Alice,Miller,alice.miller@outlook.com,(333) 244-6326,Legal,Engineer,778414,2020-05-04,DC,TRUE
+EMP-0037,Rose,Jackson,rose.jackson@yahoo.com,,HR,Manager,139419,2023-10-26,TX,0
+EMP-0088,Sam,Smith,sam.smith@gmail.com,(606) 687-5727,Operations,Director,62040,2020-11-26,IL,TRUE
+EMP-0043,Rose,Wilson,rose.wilson@yahoo.com,(927) 793-1375,Finance,Analyst,77004,2021-12-19,DC,YES
+EMP-0014,Sam,White,sam.white@govmail.gov,(362) 335-1184,BD,Coordinator,424559,2019-05-22,MD,Yes
+EMP-0049,Quinn,Brown,quinn.brown@agency.gov,(875) 498-1268,Finance,Engineer,-1701,2024-09-16,CA,YES
+EMP-0069,Frank,Miller,frank.miller@outlook.com,(389) 976-1422,Operations,Analyst,-1596,2023-12-15,FL,no
+EMP-0097,Alice,Brown,alice..brown@agency.gov,(699) 992-6017,Operations,Specialist,114331,2024-11-14,VA,Yes
+EMP-0079,Grace,White,grace.white@agency.gov,(665) 314-2426,Operations,Director,,2023-01-05,FL,no
+EMP-0075,Jack,Moore,jack.moore@yahoo.com,,R&D,Coordinator,355950,06/12/2019,NY,Yes
+EMP-0065,Olivia,Wilson,olivia.wilson@yahoo.com,,IT,Analyst,484500,2018-11-05,FL,yes
+EMP-0080,Olivia,Jackson,olivia..jackson@outlook.com,555-1993,Finance,Coordinator,69551,2018-02-18,OH,1
+EMP-0029,Ned,Miller,ned.miller@govmail.gov,(856) 586-5242,Finance,Advisor,138324,2018-09-16,VA,TRUE
+EMP-0032,Alice,White,alice.white@govmail.gov,(328) 762-8498,Legal,Analyst,81546,2018-05-14,VA,no
+EMP-0030,Mia,Taylor,mia.taylor@yahoo.com,(332) 494-1443,Legal,Director,132804,08/12/2022,FL,1
+EMP-0010,Rose,Garcia,rose.garcia@govmail.gov,(840) 687-3776,Legal,Manager,-2897,2023-11-13,GA,No
+EMP-0081,Frank,Jackson,frank.jackson@govmail.gov,555-6176,,Engineer,129836,2022-05-11,NY,Yes
+EMP-0104,Bob,Moore,bob.moore@outlook.com,(417) 498-3003,IT,Manager,77868,2024-04-07,VA,Yes
+EMP-0073,Grace,Davis,grace.davis@gmail.com,(885) 341-6871,R&D,Analyst,141758,08/03/2024,MD,Yes
+EMP-0040,Leo,Taylor,leo.taylor@yahoo.com,8012673667,BD,Advisor,93308,10/25/2021,GA,TRUE
+EMP-0019,Sam,Moore,sam.moore@govmail.gov,(227) 563-4794,IT,Advisor,417033,2018-03-15,FL,no
+EMP-0058,,Johnson,olivia.johnson@outlook.com,(782) 793-7494,,Coordinator,79396,08/05/2023,GA,TRUE
+EMP-0085,Iris,White,iris.white@outlook.com,555-1732,IT,Specialist,,2019-04-19,VA,0
+EMP-0105,,Garcia,carol.garcia@agency.gov,(653) 988-3442,Finance,Specialist,90933,2018-06-23,VA,YES
+EMP-0007,Jack,Thomas,jack.thomas@gmail.com,(911) 502-4166,R&D,Manager,898714,2020-12-04,CA,1
+EMP-0078,Leo,Jackson,leo.jackson@outlook.com,(447) 881-5298,BD,Analyst,72555,2020-09-05,MD,0
+EMP-0118,Karen,Brown,karen.brown@outlook.com,(791) 479-9031,R&D,Advisor,122105,09/19/2023,TX,Yes
+EMP-0015,Leo,Garcia,leo.garcia@outlook.com,(761) 354-1303,Operations,Engineer,96592,09/30/2023,FL,Yes
+EMP-0092,Tara,Brown,tarabrown,(739) 707-7051,IT,Specialist,108857,03/27/2024,FL,No
+EMP-0050,Leo,Jones,leo.jones@yahoo.com,(484) 427-9308,R&D,Advisor,615949,06/02/2024,TX,0
+EMP-0020,Rose,Jones,rose.jones@gmail.com,(873) 646-2326,R&D,Director,57822,2024-04-05,TX,TRUE
+EMP-0115,Olivia,Jackson,@gmail.com,(586) 942-5434,BD,Advisor,86488,2019-02-24,IL,No
+EMP-0109,Carol,Johnson,carol.johnson@gmail.com,(519) 947-9142,HR,Advisor,,2022-07-17,CA,No
+EMP-0048,Sam,Wilson,sam..wilson@agency.gov,6173984705,Finance,Coordinator,-4145,2023-03-19,GA,no
+EMP-0068,Olivia,White,olivia.white@gmail.com,(703) 734-4794,Finance,Engineer,-3022,2021-09-21,MD,0
+EMP-0051,Frank,Miller,frank..miller@yahoo.com,(342) 598-9406,Legal,Manager,58831,03/08/2020,IL,No
+EMP-0082,Ned,White,ned.white@govmail.gov,(403) 623-8891,HR,Engineer,89732,11/28/2022,NY,TRUE
+EMP-0086,Carol,Moore,carol.moore@outlook.com,(758) 210-5844,Finance,Engineer,358551,2023-06-02,VA,No
+EMP-0073,Grace,Davis,grace.davis@gmail.com,(885) 341-6871,R&D,Analyst,141758,08/03/2024,MD,Yes
+EMP-0043,Rose,Wilson,rose.wilson@yahoo.com,(927) 793-1375,Finance,Analyst,77004,2021-12-19,DC,YES
+EMP-0113,Tara,Jackson,tara.jackson@gmail.com,(454) 427-1946,HR,Advisor,111592,2022-03-24,DC,0
+EMP-0120,Grace,Williams,grace.williams@outlook.com,555-3764,Legal,Specialist,95128,03/10/2019,OH,yes
+EMP-0002,Olivia,Garcia,olivia.garcia@gmail.com,(571) 747-2324,Finance,Coordinator,129306,2018-07-30,DC,0
+EMP-0057,Rose,Taylor,rose.taylor@yahoo.com,,,Advisor,378036,2024-07-13,NY,YES
+EMP-0067,Leo,Miller,leo.miller@outlook.com,(298) 504-1820,HR,Engineer,-2800,2023-01-12,FL,No
+EMP-0053,Sam,Miller,sam.miller@gmail.com,(803) 288-2369,Legal,Specialist,129215,08/24/2019,TX,No
+EMP-0095,Rose,Wilson,rose.wilson@yahoo.com,(851) 510-6354,Legal,Director,138175,2019-09-26,DC,yes
+EMP-0090,Eve,Miller,eve.miller@yahoo.com,(503) 309-1999,HR,Engineer,-2914,2024-03-11,GA,No
+EMP-0005,Carol,Moore,carol.moore@govmail.gov,555-9755,IT,Director,603826,2022-06-21,CA,YES
+EMP-0036,Karen,Miller,karen.miller@yahoo.com,(388) 260-1925,HR,Specialist,509382,2020-12-08,VA,yes
+EMP-0004,Eve,Anderson,eve.anderson@yahoo.com,(381) 619-3384,Legal,Director,62316,2020-08-16,NY,yes
+EMP-0023,Ned,Miller,,555-5700,Finance,Advisor,110491,03/20/2021,MD,YES
+EMP-0041,Jack,Harris,jack.harris@gmail.com,,Operations,Engineer,56909,01/15/2018,NY,TRUE
+EMP-0117,Grace,Anderson,grace.anderson@govmail.gov,(832) 722-5742,IT,Manager,-2814,2020-08-21,FL,yes
+EMP-0119,Jack,Smith,jack.smith@gmail.com,(374) 991-1621,BD,Engineer,68997,2024-05-15,TX,TRUE
+EMP-0021,Leo,Brown,leo.brown@outlook.com,(448) 417-8246,Legal,Analyst,90818,2020-12-08,MD,Yes
+EMP-0066,Hank,Williams,hank.williams@outlook.com,(991) 467-6712,BD,Coordinator,-4631,2020-06-20,IL,yes
+EMP-0093,Frank,Williams,frank.williams@agency.gov,(799) 627-8124,HR,Manager,74438,2023-03-05,OH,no
+EMP-0054,Carol,Williams,carol.williams@outlook.com,(773) 949-6410,Legal,Coordinator,-4388,2019-12-01,CA,yes
+EMP-0008,Leo,Thomas,leo.thomas@yahoo.com,(654) 410-5323,R&D,Specialist,55474,2023-12-16,VA,No
+EMP-0006,David,Taylor,david.taylor@outlook.com,(500) 901-6252,Legal,Manager,652186,2020-11-17,FL,yes
+EMP-0012,Ned,Davis,ned.davis@agency.gov,(562) 868-9764,R&D,Analyst,118525,07/15/2019,VA,1
+EMP-0076,Mia,Garcia,mia.garcia@agency.gov,(449) 558-7582,IT,Director,125261,2020-09-03,GA,1
+EMP-0046,Hank,Williams,hank.williams@yahoo.com,(813) 248-8018,Finance,Coordinator,64025,2018-11-09,TX,YES
+EMP-0047,Tara,Johnson,tara.johnson@govmail.gov,(766) 626-4463,Finance,Specialist,-1182,01/19/2020,FL,No
+,Mia,Wilson,mia.wilson@agency.gov,(258) 258-2882,Legal,Director,115247,2024-08-20,DC,TRUE
+EMP-0083,Paul,Garcia,paul.garcia@outlook.com,(468) 348-5397,Operations,Specialist,74462,2024-07-08,IL,Yes
+EMP-0102,Karen,Moore,karen.moore@gmail.com,555-1283,IT,Analyst,479816,2022-02-09,VA,1
+EMP-0009,Jack,Williams,jack.williams@agency.gov,(974) 302-7466,Finance,Director,62643,06/11/2019,FL,1
+EMP-0087,Sam,Anderson,sam.anderson@agency.gov,,BD,Advisor,612068,2023-11-14,NY,YES
+EMP-0100,Jack,Garcia,jack.garcia@govmail.gov,(305) 881-4811,BD,Analyst,64414,2023-12-12,NY,no
+EMP-0056,Carol,Davis,carol.davis@outlook.com,(798) 986-8852,,Manager,139947,07/13/2022,ZZ,TRUE
